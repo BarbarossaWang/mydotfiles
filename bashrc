@@ -7,3 +7,10 @@
 
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
+
+# alias
+alias scml='mit-scheme --load'
+alias p='python'
+alias v='vim'
+alias la='ls -alt'
+alias enw='emacs -nw --color=no'
