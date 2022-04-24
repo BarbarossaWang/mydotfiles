@@ -5,7 +5,6 @@
 	defaultBranch = master
 [safe]
 	directory = /home/sharehdd/Repositories/cpp-basics
-	directory = /home/sharehdd/Excerpts
-	directory = /home/sharehdd/Repositories/whut-gis-algs-lab
 	directory = /home/sharehdd/Repositories/sicp-solutions
 	directory = /home/sharehdd/Repositories/mydotfiles
+	directory = /home/sharehdd/org
