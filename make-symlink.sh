@@ -13,7 +13,7 @@ dir=/home/sharehdd/Repositories/mydotfiles
 olddir=/home/sharehdd/Repositories/mydotfiles/dotfiles_old
 
 # list of files/folders to symlink in homedir
-files="vimrc vim bashrc gitconfig"
+files="vimrc vim bashrc gitconfig spacemacs"
 
 ##########
 
