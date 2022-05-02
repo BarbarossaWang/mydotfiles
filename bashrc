@@ -8,9 +8,17 @@
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
 
+###########
 # alias
-alias scml='mit-scheme --load'
-alias p='python'
-alias v='vim'
+###########
+# shell tools
 alias la='ls -alt'
-alias enw='emacs -nw --color=no'
+# programming languages
+alias p='python'
+# editors
+alias v='vim'
+alias e='emacs'
+alias c='code'
+# git
+alias gs='git status'
+. "$HOME/.cargo/env"
